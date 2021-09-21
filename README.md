@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, <b>Ivan Rosa</b> here.</h1>
-<h3 align="left">Brasileiro, 32 anos. Atualmente trabalho como Desenvolvedor Web (front/back end) na ...</h3>
+<h3 align="left">Brasileiro, 32 anos, Desenvolvedor Web Full Stack a 2 anos na ...</h3>
 
 #
 
