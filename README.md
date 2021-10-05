@@ -1,5 +1,7 @@
 <h3 align="left">Brasileiro, 32 anos, Desenvolvedor Web Full Stack a 2 anos na ...</h3>
 
+* em construção
+
 #
 
 <h5>Portfólio em construção</h5>
