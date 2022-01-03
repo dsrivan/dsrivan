@@ -5,6 +5,12 @@
 
 #
 
+[![Linkedin Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsrivan/)](https://www.linkedin.com/in/dsrivan/)
+[![Instagram IvanRosa Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsrivan/)](https://www.instagram.com/dsrivan/)
+![](https://visitor-badge.glitch.me/badge?page_id=dsrivan.dsrivan)
+
+#
+
 <h5>Portfólio em construção</h5>
 
 #
