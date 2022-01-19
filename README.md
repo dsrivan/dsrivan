@@ -1,21 +1,18 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!!!<br /><b>Ivan Rosa</b> here.</h1>
-<h3 align="center">Brasileiro, 32 anos, Desenvolvedor Web Full Stack a 2 anos na ...</h3>
 
-* em construção
 
-#
+## Em construção :construction: :hammer_and_pick:
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsrivan/)](https://www.linkedin.com/in/dsrivan/)
 [![Instagram IvanRosa Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsrivan/)](https://www.instagram.com/dsrivan/)
 ![](https://visitor-badge.glitch.me/badge?page_id=dsrivan.dsrivan)
 
-#
 
-<h5>Portfólio em construção</h5>
+<!--
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!!!<br /><b>Ivan Rosa</b> here.</h1>
+<h3 align="center">Brasileiro, 32 anos, Desenvolvedor Web Full Stack a 2 anos na ...</h3>
 
-#
-
-<!--### Atualmente trabalho com:
+### Atualmente trabalho com:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -89,7 +86,6 @@
 
 #
 
--->
 <div>
     <table>
     	<tr>
@@ -104,3 +100,4 @@
 </div>
 
 #
+-->
