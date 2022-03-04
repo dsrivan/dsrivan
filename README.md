@@ -3,10 +3,10 @@
 ## Em construção ... :construction: :hammer_and_pick:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsrivan/)](https://www.linkedin.com/in/dsrivan/)
-[![Instagram IvanRosa Badge](https://img.shields.io/badge/-IvanRosa-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsrivan/)](https://www.instagram.com/dsrivan/)
+[![Linkedin Badge](https://img.shields.io/badge/-dsrivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsrivan/)](https://www.linkedin.com/in/dsrivan/)
+[![Instagram IvanRosa Badge](https://img.shields.io/badge/-dsrivan-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dsrivan/)](https://www.instagram.com/dsrivan/)
+![Outlook](https://img.shields.io/badge/iivan.si@msn.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&mailto:iivan.si@msn.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=dsrivan.dsrivan)
-
 
 <!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!!!<br /><b>Ivan Rosa</b> here.</h1>
