@@ -1,6 +1,6 @@
 
 
-## Em construção ... :construction: :hammer_and_pick:
+## :construction: :hammer_and_pick: Em construção
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-dsrivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsrivan/)](https://www.linkedin.com/in/dsrivan/)
